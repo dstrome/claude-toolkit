@@ -1,6 +1,6 @@
 # claude-toolkit
 
-Claude Code plugins. Private; ask David for access.
+Claude Code plugins.
 
 ## Install
 
