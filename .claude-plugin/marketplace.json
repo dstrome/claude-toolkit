@@ -1,0 +1,14 @@
+{
+  "name": "dstrome-toolkit",
+  "owner": { "name": "David Strome" },
+  "metadata": {
+    "description": "Claude Code plugins by David Strome."
+  },
+  "plugins": [
+    {
+      "name": "state-skills",
+      "source": "./plugins/state-skills",
+      "description": "Save a session's full working state to a file and load it back after /clear or in a new session, so nothing important is lost the way an automatic compact can lose it."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "state-skills",
+  "version": "1.0.0",
+  "description": "/save-state writes a thorough briefing of the current session (what was done and why, root causes, what is not verified, what is running, the next step) to one state file in the project; /load-state reads it back, checks it against git and running processes, and briefs you.",
+  "author": { "name": "David Strome" }
+}
